@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="top_bottom_margin">18dp</dimen>
+    <dimen name="textSize">14sp</dimen>
+    <dimen name="item_text">18sp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="card_corner">8dp</dimen>
+    <dimen name="dividing_margin">0dp</dimen>
+</resources>
